@@ -1,0 +1,31 @@
+<div className="flex gap-2 pb-[-10px]">
+        <button
+          className="cursor-pointer 
+              focus:border-b-[5px]
+              focus:font-semibold
+            focus:border-b-red-600
+          "
+        >
+          Featured Courses
+        </button>
+        <span className="piks-col w-[1px] h-[20px] bg-slate-500"></span>
+        <button
+          className="cursor-pointer 
+              focus:border-b-[5px]
+              focus:font-semibold
+            focus:border-b-red-600
+          "
+        >
+          Most Viewed
+        </button>
+        <span className="piks-col w-[1px] h-[20px] bg-slate-500"></span>
+        <button
+          className="cursor-pointer 
+              focus:border-b-[5px]
+              focus:font-semibold
+            focus:border-b-red-600
+          "
+        >
+          New Courses
+        </button>
+      </div>
